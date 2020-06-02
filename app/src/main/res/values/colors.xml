@@ -3,6 +3,8 @@
     <color name="colorPrimary">#ff6f00</color>
     <color name="colorPrimaryDark">#c43e00</color>
     <color name="colorPrimaryLight">#ffa040</color>
+    <color name="colorAccent">#c43e00</color>
+    <color name="negative">#FF0000</color>
     <color name="affirmative">#6D9E1F</color>
     <color name="listItemBackgroundDisable">#949494</color>
     <color name="textLight">#FFFFFF</color>
@@ -12,5 +14,5 @@
     <color name="listItemTitle">#0D47A1</color>
     <color name="grey1">#FFFFFF</color>
     <color name="transperent">#00FFFFFF</color>
-    <color name="buttonText" />
+    <color name="buttonText">#ffffff</color>
 </resources>
